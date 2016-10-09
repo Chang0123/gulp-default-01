@@ -1,3 +1,3 @@
 $(function(){
-    console.debug('forms1234');
+    console.debug('forms1');
 });

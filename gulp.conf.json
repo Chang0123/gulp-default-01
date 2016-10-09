@@ -1,0 +1,20 @@
+{
+  "path": {
+    "src": {
+      "scss": "./assets/scss/root.scss",
+      "js": "./assets/js/app/**/*.js"
+    },
+    "watch": {
+      "scss": "./assets/scss/**/*.scss",
+      "js": "./assets/js/app/**/*.js"
+    },
+    "dist": {
+      "js": "./assets/js/dist",
+      "css": "./assets/css"
+    },
+    "name": {
+      "app": "app.js",
+      "vendor": "vendor.js"
+    }
+  }
+}
